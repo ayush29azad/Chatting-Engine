@@ -1,0 +1,75 @@
+body{
+
+    background-image: url("https://st3.depositphotos.com/10953546/14866/v/600/depositphotos_148660113-stock-illustration-technology-social-media-network-link.jpg");
+        height:100vh;
+        font-family: 'Comfortaa', cursive;
+
+}
+
+.logo{
+
+    display:block;
+    margin:auto;
+    width:100px;height:100px;
+}
+
+
+.container{
+max-width:955px;
+background-image: url("https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png");
+opacity: 0.8;
+margin:auto;
+height: 60vh;
+overflow-y: auto;
+padding:23px;
+margin-bottom: 23px;
+margin-top:30px;
+}
+
+.message{
+background-color:grey;
+width:24%;
+padding: 10px;
+margin:17px 12px;
+border-radius:10px;
+
+}
+
+.left{
+float:left;clear:both;
+background-color: white;
+}
+.right{
+    float:right;clear:both;
+    background-color:#bcff8f;
+
+
+}
+#send-container {
+display: block;
+margin:auto;
+text-align: center;
+
+}
+#messageInp{
+
+    width: 92%;
+    border: 2px solid black;
+    border-radius: 6px;
+    height:34px;
+}
+.btn{
+    cursor:pointer;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding:10px;
+    background-color: #bcff8f;
+    size: 20px;
+  
+  
+  
+
+}
+
+
+
